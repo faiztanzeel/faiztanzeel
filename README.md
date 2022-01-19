@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @faiztanzeel
-- 👀 I’m interested in Web Development, UI/UX Designing, DevOps
+- 👀 I’m interested in software development, frontend web design, UI/UX Designing, DevOps
 - 🌱 I’m currently learning ReactJs
 - 📫 How to reach me www.tanzeelfaiz@gmail.com
 
