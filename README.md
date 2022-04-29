@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @faiztanzeel
+- 👋 Hi, I’m @faiztanzeel currently working as React developer.
 - 👀 I’m interested in software development, frontend web design, UI/UX Designing, DevOps
 - 🌱 I’m currently learning ReactJs
 - 📫 How to reach me www.tanzeelfaiz@gmail.com
