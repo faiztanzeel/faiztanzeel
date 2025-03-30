@@ -1,7 +1,7 @@
-👋 Hey there! I’m @faiztanzeel, a passionate React Developer crafting seamless digital experiences.
-🚀 I thrive on building interactive web and mobile applications, blending creativity with performance.
-🎨 With a keen eye for UI/UX design, I love transforming ideas into stunning, user-friendly interfaces.
-💡 Always eager to explore new technologies and push the boundaries of software development.
+👋 Hey there! I’m @faiztanzeel, a passionate React Developer crafting seamless digital experiences. <br/>
+🚀 I thrive on building interactive web and mobile applications, blending creativity with performance. <br/>
+🎨 With a keen eye for UI/UX design, I love transforming ideas into stunning, user-friendly interfaces.<br/>
+💡 Always eager to explore new technologies and push the boundaries of software development.<br/>
 📫 Let’s connect! Reach me at tanzeelfaiz@gmail.com.
 
 ## 🌐 Socials:
